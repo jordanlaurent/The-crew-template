@@ -1,24 +1,8 @@
-# Pour lancer l'application proccéder comme suit
+# Pour lancer l'application utilisé la commande yarn serve 
 
-## Project setup
-```
-npm install
-```
+<h4>Informations complémentaires<h/4>
+- Temps de réalisation 1 nuit
+- 2 cannettes de coca cola consommé
+- Playslist spotify "motivation au top" en fond sonore
+-Beaucoup de bug rencontré ; )
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
