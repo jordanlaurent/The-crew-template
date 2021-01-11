@@ -1,4 +1,4 @@
-# the
+# Pour lancer l'application proccéder comme suit
 
 ## Project setup
 ```
